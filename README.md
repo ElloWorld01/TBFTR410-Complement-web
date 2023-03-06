@@ -97,7 +97,7 @@ elements[i].innerHTML = elements[i].innerHTML.replace(/X/, lastNumberOfYear);
 
 J'ai utilisé la méthode `setInterval()` pour que la fonction `getNbDays()` s'exécute toutes les secondes sans s'arrêter, contrairement à la méthode `setTimeout()` qui ne s'exécute qu'une seule fois.
 
-## 8 Exercice 3 : HTML, CSS et JavaScript (obligatoire)
+## 8 Exercice 3 : HTML, CSS et JavaScript (exercice3.html et exercice3.js)
 ### 8.1 Champ Texte et Couleur d’arrière-plan
 #### Quel évènement avez-vous utilisé ?
 
